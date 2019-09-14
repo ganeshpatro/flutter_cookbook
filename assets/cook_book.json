@@ -1,0 +1,237 @@
+[
+    {
+        "section_name": "Animation",
+        "chapters": [
+            {
+                "chapter_name": "Animate a page route transition",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/animation/page-route-animation.html"
+            },
+            {
+                "chapter_name": "Animate a widget using a physics simulation",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/animation/physics-simulation.html"
+            },
+            {
+                "chapter_name": "Animate the properties of a container",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/animation/animated-container.html"
+            },
+            {
+                "chapter_name": "Fade a widget in and out",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/animation/opacity-animation"
+            }
+        ]
+    },
+    {
+        "section_name": "Design",
+        "chapters": [
+            {
+                "chapter_name": "Add a Drawer to a screen",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/design/drawer.html"
+            },
+            {
+                "chapter_name": "Display a snackbar",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/design/snackbars.html"
+            },
+            {
+                "chapter_name": "Export fonts from a package",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/design/package-fonts.html"
+            },
+            {
+                "chapter_name": "Update the UI based on orientation",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/animation/opacity-animation"
+            },
+            {
+                "chapter_name": "Use a custom font",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/design/fonts.html"
+            },
+            {
+                "chapter_name": "Use themes to share colors and font styles",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/design/themes.html"
+            },
+            {
+                "chapter_name": "Work with tabs",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/design/tabs.html"
+            }
+        ]
+    },
+    {
+        "section_name": "Forms",
+        "chapters": [
+            {
+                "chapter_name": "Build a form with validation",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/forms/validation.html"
+            },
+            {
+                "chapter_name": "Create and style a text field",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/forms/text-input.html"
+            },
+            {
+                "chapter_name": "Focus and text fields",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/forms/focus.html"
+            },
+            {
+                "chapter_name": "Handle changes to a text field",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/forms/text-field-changes.html"                
+            },
+            {
+                "chapter_name": "Retrieve the value of a text field",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/forms/retrieve-input.html"                
+            }
+        ]
+    },
+    {
+        "section_name": "Gestures",
+        "chapters": [
+            {
+                "chapter_name": "Add Material touch ripples",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/gestures/ripples.html"
+            },
+            {
+                "chapter_name": "Handle taps",
+                "flutter_book_url": "Handle taps"
+            },
+            {
+                "chapter_name": "Implement swipe to dismiss",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/gestures/dismissible.html"
+            }
+        ]
+    },
+    {
+        "section_name": "Images",
+        "chapters": [
+            {
+                "chapter_name": "Display images from the internet",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/images/network-image.html"
+            },
+            {
+                "chapter_name": "Fade in images with a placeholder",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/images/fading-in-images.html"
+            },
+            {
+                "chapter_name": "Work with cached images",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/images/cached-images.html"
+            }
+        ]
+    },
+    {
+        "section_name": "Lists",
+        "chapters": [
+            {
+                "chapter_name": "Create a grid list",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/lists/grid-lists.html"
+            },
+            {
+                "chapter_name": "Create a horizontal list",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/lists/horizontal-list.html"
+            },
+            {
+                "chapter_name": "Create lists with different types of items",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/lists/mixed-list.html"
+            },
+            {
+                "chapter_name": "Place a floating app bar above a list",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/lists/floating-app-bar.html"
+            },
+            {
+                "chapter_name": "Use lists",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/lists/basic-list.html"
+            },
+            {
+                "chapter_name": "Work with long lists",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/lists/long-lists.html"
+            }
+        ]
+    },
+    {
+        "section_name": "Maintenance",
+        "chapters": [
+            {
+                "chapter_name": "Report errors to a service",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/maintenance/error-reporting.html"
+            }
+        ]
+    }, 
+    {
+        "section_name": "Navigation",
+        "chapters": [
+            {
+                "chapter_name": "Animate a widget across screens",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/navigation/hero-animations.html"
+            }, 
+            {
+                "chapter_name": "Navigate to a new screen and back",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/navigation/navigation-basics.html"
+            },
+            {
+                "chapter_name": "Navigate with named routes",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/navigation/named-routes.html"                
+            }, 
+            {
+                "chapter_name": "Pass arguments to a named route",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments.html"                                
+            },
+            {
+                "chapter_name": "Return data from a screen",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/navigation/returning-data.html"                                
+            },
+            {
+                "chapter_name": "Send data to a new screen",
+                "flutter_book_url": "Send data to a new screen"                                
+            } 
+        ]
+    },
+    {
+        "section_name": "Networking",
+        "chapters": [
+            {
+                "chapter_name": "Fetch data from the internet",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/networking/fetch-data.html"
+            }, 
+            {
+                "chapter_name": "Make authenticated requests",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/networking/authenticated-requests.html"
+            },
+            {
+                "chapter_name": "Parse JSON in the background",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/networking/background-parsing.html"                
+            }, 
+            {
+                "chapter_name": "Work with WebSockets",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/networking/web-sockets.html"                                
+            }
+        ]
+    },
+    {
+        "section_name": "Persistence",
+        "chapters": [
+            {
+                "chapter_name": "Persist data with SQLite",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/persistence/sqlite.html"
+            }, 
+            {
+                "chapter_name": "Read and write files",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/persistence/reading-writing-files.html"
+            },
+            {
+                "chapter_name": "Store key-value data on disk",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/persistence/key-value.html"                
+            }
+        ]
+    },
+    {
+        "section_name": "Plugins",
+        "chapters": [
+            {
+                "chapter_name": "Play and pause a video",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/plugins/play-video.html"
+            }, 
+            {
+                "chapter_name": "Take a picture using the camera",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/plugins/picture-using-camera.html"
+            },
+            {
+                "chapter_name": "Store key-value data on disk",
+                "flutter_book_url": "https://flutter.dev/docs/cookbook/persistence/key-value.html"                
+            }
+        ]
+    }
+]
